@@ -110,7 +110,7 @@ body {
 .hero {
   height: 100vh;
   padding: 3rem;
-  background-image: url("../july/images/images/background.png");
+  background-image: url("./images/images/background.png");
   background-position: center;
   background-size: cover;
   position: relative;
